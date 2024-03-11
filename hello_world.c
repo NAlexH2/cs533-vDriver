@@ -1,9 +1,7 @@
-#include<linux/kernel.h>
-#include<linux/init.h>
-#include<linux/module.h>
-/*
+#include <linux/kernel.h>
+#include <linux/init.h>
+#include <linux/module.h>
 
-*/
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_AUTHOR("Alex Harris <nharris@pdx.edu>");
 MODULE_DESCRIPTION("A simple hello world driver");
