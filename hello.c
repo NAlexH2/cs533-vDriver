@@ -1,6 +1,6 @@
 #include <linux/kernel.h> // Following includes are Required for loading
 #include <linux/init.h>   //   into the kernel and using printk.
-#include <linux/module.h> // printk is for printing to kernel log.
+#include <linux/module.h> // printk is for printing to kernel space.
 
 // GPL is the most open, best to use in this example. Linux uses it by default.
 MODULE_LICENSE("GPL");
