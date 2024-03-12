@@ -1,1 +1,1 @@
-# CS533 Final Project - Virtual Linux Driver
+# CS533 Final Project - Linux Virtual Device Driver
