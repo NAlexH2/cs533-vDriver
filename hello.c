@@ -34,7 +34,8 @@ static void hello_world_exit(void)
     printk(KERN_ALERT ".........\n");
     printk(KERN_ALERT "Get it? kruel as in k for kernel...? It's fine.\n");
 }
- 
+
+// Two prior functions take place on the addition and removal of the device here.
 module_init(hello_world_init);
 module_exit(hello_world_exit);
  
