@@ -5,7 +5,7 @@
 // GPL is the most open, best to use in this example. Linux uses it by default.
 MODULE_LICENSE("GPL");
 
-// Best to let who know made this thing!
+// Best to let folks know who made this thing!
 MODULE_AUTHOR("Alex Harris <nharris@pdx.edu>");
 
 // Just a description someone can see with `modinfo hello.ko` after we add it
